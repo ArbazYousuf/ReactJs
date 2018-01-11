@@ -1,0 +1,52 @@
+.navigation{
+  text-align: center;
+}
+.cardDiv{
+  width: 80%;
+  margin-top: 30px;
+  display: inline-block;
+  margin-right: 20px;
+  opacity: 0.9;
+}
+.borderCard{
+  border: 1px solid transparent;
+  width: 95%;
+  margin-top: 20px;
+  margin-left: 43px;
+}
+.setImg{
+  width: 15%;
+  margin-right: 775px;
+  margin-top: 30px;
+}
+
+.forCard{
+  margin-top: -160px;
+}
+.imageSet{
+  background-image: url('./Images/bg2.jpg');
+  min-height: 637px ;
+  height: auto !important;
+  background-size: auto;
+  background-attachment: fixed;
+  opacity: 0.9;
+}
+.regPaper{
+  width: 60%;
+  margin-left: 250px;
+  opacity: 0.9;
+}
+.jobReg{
+  padding: 40px;
+}
+.hStyle{
+  font-family: monospace;
+  font-size: 50px;
+  margin-top: -23px;
+}
+.table2{
+  width: 80%;
+  margin-left: 121px;
+  margin-top: 30px;
+  opacity: 0.9;
+}

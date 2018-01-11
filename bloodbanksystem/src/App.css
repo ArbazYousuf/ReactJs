@@ -1,0 +1,26 @@
+.button{
+  margin: 12px
+}
+
+.createaccount{
+  text-decoration: none;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.div2{
+  font-family: monospace;
+  font-size: 10px;
+  color: red
+}
+.navigationBar{
+  padding-bottom: 565px;
+}
+.rightNav{
+  margin-left: 667px;
+  font-family: cursive;
+}
+.navimg{
+  width: 900px ;
+  height:500px ;
+}

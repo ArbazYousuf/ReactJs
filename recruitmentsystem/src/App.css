@@ -1,0 +1,73 @@
+.navigation{
+    text-align: center;
+}
+.Align1{
+    display: flex;
+    min-height: 65vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+.newAcc{
+    font-family: monospace;
+  }
+.loginh1{
+    font-family: -webkit-body;
+    font-size: 46px;
+    color: #4B0082;
+}
+.customWidth {
+    width: 200,
+}
+.paparStyle{
+    height: 490px;
+    width: 31%;
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 40px;
+}
+.tabStyle{
+    width: 40%;
+    padding-top: 30px;
+}
+.paperStyle{
+    text-align: center;
+    padding-bottom: 32px;
+}
+.appaper{
+    height: 100;
+    width: 100;
+    margin: 20;
+    text-align: center;
+    display: inline-block;
+}
+.jobReg{
+    padding-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-bottom: 20px;
+}
+.regPaper{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.cardDiv{
+    width: 25%;
+    margin-top:100px;
+    display: inline-block;
+    margin-right: 20px
+}
+.borderCard{
+    border: 1px solid transparent;
+    width: 95%;
+    margin-top: 30px;
+    margin-left: 43px;
+  }
+.applyStu{
+    border: 1px solid transparent;
+    overflow: scroll;
+    width: 95%;
+    height: 74px;
+    overflow-x: hidden
+}

@@ -1,0 +1,158 @@
+.button{
+  margin: 12px
+}
+
+.createaccount{
+  text-decoration: none;
+  font-size: 15px;
+  font-family: monospace;
+}
+
+.div2{
+  font-family: monospace;
+  font-size: 10px;
+  color: red
+}
+.icon{
+  width: 225px;
+}
+.style {
+  margin-right: 20
+}
+.Align1{
+  display: flex;
+  min-height: 65vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.Align2{
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
+  height: 40px;
+  line-height: 1;
+  position: fixed;
+  width: 98%;
+  bottom: 0;
+  left: 0;
+  padding: 0 5px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: nowrap;
+  color: #999;
+  /* background: #343436; */
+  /* border-top: 1px solid rgb(255, 255, 255); */
+  z-index: 10;
+  align-items: center;
+  justify-content: center;
+}
+
+.displayname{
+  color:white;
+  font-family: sans-serif;
+  size: 20px;
+}
+
+.li{
+  list-style:none;
+} 
+.chatRoom2{
+  border: 1px solid white;
+  width: 94%;
+  height: 80%;
+  overflow: auto;
+}
+.div1{
+  display: block;
+  width: 30%;
+  display: inline-block
+}
+.div2{
+  width :70%;
+  margin-left: 495px;
+  display: inline-block;
+  color: black;
+  margin-top: -500px;
+}
+.buttonWidth{
+  width: 250px
+}
+
+.border2{
+  border: 1px solid black;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin-right: 600px;
+  background-color: #f95285;
+  color: white;
+  font-family: sans-serif;
+  border-radius:20px;
+  box-shadow: 10px 10px 5px #888888;
+}
+.chatRoom{
+  border: 1px solid black;
+  width: 35%;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius:20px;
+  box-shadow: 10px 10px 5px #888888;
+  height: 420px;
+  
+
+}
+.trstyle{
+  border: 1px solid transparent;
+  padding: 5px;
+  border-radius: 50px;
+  width: 40%;
+  background-color: lightsalmon;
+}
+.trstyle2{
+  border: 1px solid transparent;
+  padding:5px;
+  border-radius: 50px;
+  width:40%;
+  margin-left: 150px;
+  background-color: lightgreen;
+}
+.sendTo{
+  font-size: 8px;
+  font-family: sans-serif;
+}
+.h1{
+  font-family: sans-serif;
+  margin-left: 106px;  
+}
+.newAcc{
+  font-family: monospace;
+}
+.newSign{
+  color: blue;
+  font-size:15px;
+  font-family: initial;
+}
+.input {
+  display: none;
+}
+.Align3{
+  border:1px solid white;
+  height : 15%;
+  width: 100%;
+  
+  /* min-width: 40pc;
+  margin-left: -17px; */
+}
+.width{
+  width: 70%;
+  display: inline;
+}
+.formclass{
+  width:100%
+}
+.buttonClass{
+  display : none
+}
